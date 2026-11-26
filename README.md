@@ -53,11 +53,14 @@
 
 ## 7. Використані зовнішні матеріали
 
+pc-inside.jpg - https://commons.wikimedia.org/wiki/File:2026_Wnętrze_komputera_PC.jpg
+motherboard.jpg - https://commons.wikimedia.org/wiki/File:Gigabyte_GA-H87M-D3H_motherboard_µATX_with_Intel_Socket_1150.jpg
+cpu-install.jpg - https://www.tomshardware.com/how-to/install-a-cpu
+
 | Матеріал | Джерело |
 | pc-inside.jpg | ![посилання](https://commons.wikimedia.org/wiki/File:2026_Wnętrze_komputera_PC.jpg) |
 | motherboard.jpg | ![посилання](https://commons.wikimedia.org/wiki/File:Gigabyte_GA-H87M-D3H_motherboard_µATX_with_Intel_Socket_1150.jpg) |
 | cpu-install.jpg | ![посилання](https://www.tomshardware.com/how-to/install-a-cpu) |
-| Шрифти | посилання |
 
 Тексти сторінок написані автором самостійно.
 
